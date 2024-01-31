@@ -1,0 +1,12 @@
+cb4ee2517fe4e73931798d689f92f979  usr/bin/dwm.default
+e0dfe84c5865456c197dc5ba1cde92f8  usr/bin/dwm.maintainer
+7cd17d95e969cac2e308aff6bded7c8d  usr/bin/dwm.web
+119acc9ca1ab7285442ac7f8342fb866  usr/bin/dwm.winkey
+ad7413999e5ed8abc7747e52ec870a0f  usr/share/doc/dwm/README
+f8afdb457ce3e9b2940876fc8f319ef6  usr/share/doc/dwm/changelog.Debian.gz
+6a1bb13b055756d2416b9714f8dca2f3  usr/share/doc/dwm/copyright
+a3ac604015ea85994bdb7554b1ef39c7  usr/share/icons/dwm.png
+925ac89b9a09b837879040e032029986  usr/share/lintian/overrides/dwm
+53b5a4be57f59a895003375d7a84339b  usr/share/man/man1/dwm.1.gz
+b02222722cc3a06b086f4d9c118c7d16  usr/share/menu/dwm
+d62afccb1f77cd806afb1bf854184763  usr/share/xsessions/dwm.desktop
